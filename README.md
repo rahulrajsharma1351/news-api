@@ -1,7 +1,7 @@
 # 📰 News API Project
 
 This project is a dynamic news website that fetches and displays the latest news articles using a public News API. Built with HTML, CSS, and JavaScript, the website allows users to stay updated with the most recent headlines and stories from various sources.
-![desktop-design](./)
+![desktop-design](desktop-design)
 
 ## 🌟 Key Features
 - **📱 Responsive Design:** Fully responsive layout for an optimal viewing experience across all devices.
