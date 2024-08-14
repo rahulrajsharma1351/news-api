@@ -15,8 +15,3 @@ This project is a dynamic news website that fetches and displays the latest news
 ### Prerequisites
 - A modern web browser.
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/news-api-project.git
-
